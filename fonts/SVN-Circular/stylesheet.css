@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularBoldItalic.woff2') format('woff2'),
+        url('SVN-CircularBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SVN-Circular Book';
+    src: url('SVN-CircularBook.woff2') format('woff2'),
+        url('SVN-CircularBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularBold.woff2') format('woff2'),
+        url('SVN-CircularBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularBlack.woff2') format('woff2'),
+        url('SVN-CircularBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularBlackItalic.woff2') format('woff2'),
+        url('SVN-CircularBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularMedium.woff2') format('woff2'),
+        url('SVN-CircularMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SVN-Circular Book';
+    src: url('SVN-CircularBookItalic.woff2') format('woff2'),
+        url('SVN-CircularBookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SVN-Circular';
+    src: url('SVN-CircularMediumItalic.woff2') format('woff2'),
+        url('SVN-CircularMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
